@@ -24,7 +24,9 @@
   {
     "name": "Github.com",
     "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/"
+    "url": "https://github.com/",
+    "deleted": true,
+    "deletedAt": "2026-07-20T13:18:43.963Z"
   },
   {
     "name": "Woy.ai",
