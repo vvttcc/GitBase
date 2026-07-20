@@ -32,6 +32,8 @@
   {
     "name": "Music Player",
     "description": "Online Music Player",
-    "url": "https://musicplayer-olive.vercel.app/"
+    "url": "https://musicplayer-olive.vercel.app/",
+    "deleted": true,
+    "deletedAt": "2026-07-20T13:17:38.154Z"
   }
 ]
