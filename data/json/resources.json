@@ -9,7 +9,9 @@
   {
     "name": "Tailwind CSS",
     "description": "A utility-first CSS framework",
-    "url": "https://tailwindcss.com/"
+    "url": "https://tailwindcss.com/",
+    "deleted": true,
+    "deletedAt": "2026-07-20T13:19:56.840Z"
   },
   {
     "name": "Shadcn/ui",
