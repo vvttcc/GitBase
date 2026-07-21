@@ -1,49 +1,13 @@
 [
   {
-    "name": "Next.js",
-    "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/",
-    "deleted": true,
-    "deletedAt": "2026-07-21T11:02:33.684Z"
-  },
-  {
-    "name": "Tailwind CSS",
-    "description": "A utility-first CSS framework",
-    "url": "https://tailwindcss.com/",
-    "deleted": true,
-    "deletedAt": "2026-07-20T13:19:56.840Z"
-  },
-  {
-    "name": "Shadcn/ui",
-    "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/",
-    "deleted": true,
-    "deletedAt": "2026-07-20T13:19:52.730Z"
-  },
-  {
-    "name": "Vercel",
-    "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/",
-    "deleted": true,
-    "deletedAt": "2026-07-20T13:18:53.560Z"
-  },
-  {
-    "name": "Github.com",
-    "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/",
-    "deleted": true,
-    "deletedAt": "2026-07-20T13:18:43.963Z"
-  },
-  {
     "name": "Woy.ai",
     "description": "AI Tools Directory",
     "url": "https://woy.ai"
   },
   {
-    "name": "Music Player",
-    "description": "Online Music Player",
-    "url": "https://musicplayer-olive.vercel.app/",
-    "deleted": true,
-    "deletedAt": "2026-07-20T13:17:38.154Z"
+    "name": "test",
+    "description": "test",
+    "url": "test",
+    "category": "tutorial"
   }
 ]
