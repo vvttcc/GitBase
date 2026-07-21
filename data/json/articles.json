@@ -5,9 +5,15 @@
     "date": "2024-08-11T13:14:40.737Z",
     "category": null,
     "lastModified": "2024-11-06T03:24:55Z",
-    "path": "data/md/accessing-admin-managing-resources.md",
-    "deleted": true,
-    "deletedAt": "2026-07-21T12:33:55.330Z"
+    "path": "data/md/accessing-admin-managing-resources.md"
+  },
+  {
+    "title": "Configuring Environment Variables for GitBase",
+    "description": "",
+    "date": "2026-07-21T12:50:41.507Z",
+    "category": null,
+    "lastModified": "2026-07-21T12:50:41Z",
+    "path": "data/md/configuring-environment-variables-for-gitbase.md"
   },
   {
     "title": "Configuring Environment Variables for GitBase",
