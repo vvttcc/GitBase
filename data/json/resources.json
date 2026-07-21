@@ -9,5 +9,11 @@
     "description": "test",
     "url": "test",
     "category": "tutorial"
+  },
+  {
+    "name": "crunchyroll",
+    "description": "crunchyroll",
+    "url": "https://www.crunchyroll.com/",
+    "category": ""
   }
 ]
